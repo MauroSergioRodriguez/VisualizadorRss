@@ -124,15 +124,21 @@ public class ScreenManager{
         if(count == 0){
             ContentValues registro = new ContentValues();
             registro.put("id", 0);
-            registro.put("nombre", "Infobae");
-            registro.put("url", "http://www.infobae.com/rss/hoy.xml");
+            registro.put("nombre", "CNN");
+            registro.put("url", "http://rss.cnn.com/rss/edition.rss");
             bd.insert("rss", null, registro);
 
             ContentValues registro2 = new ContentValues();
             registro2.put("id", 1);
-            registro2.put("nombre", "NASA");
-            registro2.put("url", "http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss");
+            registro2.put("nombre", "Infobae");
+            registro2.put("url", "http://www.infobae.com/rss/hoy.xml");
             bd.insert("rss", null, registro2);
+
+            ContentValues registro3 = new ContentValues();
+            registro3.put("id", 2);
+            registro3.put("nombre", "NASA");
+            registro3.put("url", "http://www.nasa.gov/rss/dyn/lg_image_of_the_day.rss");
+            bd.insert("rss", null, registro3);
         }
         Cursor fila = bd.rawQuery("select * from rss", null);
         List<String> opciones = new ArrayList<String>();
