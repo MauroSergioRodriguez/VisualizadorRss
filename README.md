@@ -1,8 +1,3 @@
-<style>
-#img li{
-	list-style:none;
-}
-</style>
 # VisualizadorRss
 <b>Introducción:</b>
 <i>VisualizadorRss</i> es una aplicación para Android desarrollada en Java, utilizando el Android Studio. <br/>
@@ -26,7 +21,7 @@ También permite almacenar localmente los RSS para que no tenga que ingresar la 
 
 <b>Capturas:</b>
 <ul id="img">
-	<li>Home: <br/> <img src="http://i.imgur.com/dYC9bBx.jpg"/></li>
+	<li style="list-style:none;">Home: <br/> <img src="http://i.imgur.com/dYC9bBx.jpg"/></li>
 	<li>Filtrar Noticias: <br/> <img src="http://i.imgur.com/5ByQj1d.jpg"></li>
 	<li>Spinner con RSS: <br/> <img src="http://i.imgur.com/rd7woig.jpg"></li>
 	<li>RSS sin Imágenes: <br/> <img src="http://i.imgur.com/CcIlmml.jpg"></li>
