@@ -5,7 +5,7 @@ Permite poder visualizar las noticias de su RSS preferido, cargando (si las hay)
 También permite almacenar localmente los RSS para que no tenga que ingresar la dirección web cada vez que inicia la aplicación.<br/>
 
 <b>Descarga:</b>
-<a href="https://mega.co.nz/#!Mt5FHCDR!xTLYbjeGBpRhX-g_rItC69wZFxzpQnKfCwLA9UUsLo8"><img src="http://k30.kn3.net/B/4/9/9/5/F/EFD.gif"/></a>
+<a href="https://mega.co.nz/#!Mt5FHCDR!xTLYbjeGBpRhX-g_rItC69wZFxzpQnKfCwLA9UUsLo8" target="_blank"><img src="http://k30.kn3.net/B/4/9/9/5/F/EFD.gif"/></a>
 
 <b>Tecnologías Utilizadas:</b>
 <ul>
