@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Visualizador Rss</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_agregar">+</string>
+    <string name="agregar_aceptar">Aceptar</string>
+    <string name="agregar_cancelar">Cancelar</string>
+    <string name="agregar_titulo">Agregar RSS</string>
+    <string name="agregar_nombre">Nombre:</string>
+    <string name="agregar_url">URL:</string>
+    <string name="descripcion_ver_mas">Ver Mas</string>
+</resources>
