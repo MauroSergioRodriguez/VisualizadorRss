@@ -20,13 +20,12 @@ También permite almacenar localmente los RSS para que no tenga que ingresar la 
 </ul>
 
 <b>Capturas:</b>
-<ul id="img">
-	<li style="list-style:none;">Home: <br/> <img src="http://i.imgur.com/dYC9bBx.jpg"/></li>
-	<li>Filtrar Noticias: <br/> <img src="http://i.imgur.com/5ByQj1d.jpg"></li>
-	<li>Spinner con RSS: <br/> <img src="http://i.imgur.com/rd7woig.jpg"></li>
-	<li>RSS sin Imágenes: <br/> <img src="http://i.imgur.com/CcIlmml.jpg"></li>
-	<li>Agregar RSS a la base: <br/> <img src="http://i.imgur.com/P5pMRGA.jpg"></li>
-	<li>Detalle de Noticias: <br/> <img src="http://i.imgur.com/NBAmgFj.jpg"></li>
-	<li>Ver Noticia Completa en web: <br/> <img src="http://i.imgur.com/Id2WCEu.jpg"></li>
-	<li>Recargar Noticias: <br/> <img src="http://i.imgur.com/dALipW3.jpg"></li>
-</ul>
+<br>
+Home: <br/> <img src="http://i.imgur.com/dYC9bBx.jpg"/> <br/>
+Filtrar Noticias: <br/> <img src="http://i.imgur.com/5ByQj1d.jpg"><br/>
+Spinner con RSS: <br/> <img src="http://i.imgur.com/rd7woig.jpg"><br/>
+RSS sin Imágenes: <br/> <img src="http://i.imgur.com/CcIlmml.jpg"><br/>
+Agregar RSS a la base: <br/> <img src="http://i.imgur.com/P5pMRGA.jpg"><br/>
+Detalle de Noticias: <br/> <img src="http://i.imgur.com/NBAmgFj.jpg"><br/>
+Ver Noticia Completa en web: <br/> <img src="http://i.imgur.com/Id2WCEu.jpg"><br/>
+Recargar Noticias: <br/> <img src="http://i.imgur.com/dALipW3.jpg">
